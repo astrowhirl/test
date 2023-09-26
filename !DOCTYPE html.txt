@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Benny Tran - Experience</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3ece6; /* Cream background */
+            color: #2d2722; /* Brown text color */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #8b735b; /* Brown header background */
+            color: #fff; /* White text color */
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff; /* White content background */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Benny Tran</h1>
+        <p>Work & Volunteer Experience</p>
+    </header>
+    <div class="container">
+        <h2>Work Experience</h2>
+        <p>Insert your work experience details here.</p>
+        
+        <h2>Volunteer Experience</h2>
+        <p>Insert your volunteer experience details here.</p>
+    </div>
+</body>
+</html>
